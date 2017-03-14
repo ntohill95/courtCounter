@@ -1,0 +1,15 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="team_a">20sp</dimen>
+    <dimen name="pad_text">16dp</dimen>
+    <dimen name="score">56sp</dimen>
+    <dimen name="points">20sp</dimen>
+    <dimen name="pad_button_TB">8dp</dimen>
+    <dimen name="pad_score">24dp</dimen>
+    <dimen name="pad_button_LR">24dp</dimen>
+    <dimen name="reset_pad">32dp</dimen>
+
+
+</resources>
